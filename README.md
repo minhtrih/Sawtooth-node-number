@@ -1,1 +1,1 @@
-# Sawtooth-node-number
+# Build Sawtooth with PoET/PBFT consensus
